@@ -1,0 +1,45 @@
+@font-face {
+	@import url(http://fonts.googleapis.com/css?family=Elsie+Swash+Caps|Trocchi); /*font-family: 'Elsie Swash Caps', cursive;*/
+}
+
+header {
+	text-align: center;
+}
+
+body {
+
+	background: url(../img/FondoRomanos.png);
+}
+
+nav ul {
+	list-style: none;
+}
+
+nav li {
+	display: inline-block;	/*Convertimos todos los elemntos de la lista en linea*/
+	vertical-align: top;
+}
+
+nav a {
+	border-radius:	20px;	/*dejamos el borde bien redondeado*/
+	border: 1px solid rgb(0,127,127); /*Colocamos un borde solido y casi del mismo color*/
+	background: rgba(0,120,120,0.5); /*Color de fondo solo del nav*/
+	padding: 5px;
+	color: rgba(0,0,0,1);
+	font-family: 'Elsie Swash Caps', cursive;
+	display: block;
+	text-decoration: none;
+}
+
+nav a:hover {
+	border-radius: 50px;
+	background: rgba(120,120,120,0.5);
+	color:rgba(255,255,255,1);
+	transform:scale(1.5);
+}
+
+article {
+	text-align: center;
+	border:1px solid;
+	width: 300px;
+}

@@ -1,0 +1,14 @@
+/*mipagina.com*/
+
+/* TEAM */
+	Creator: Paulo Alvarez
+	Contact: creeo [at] correo.com
+	Twitter: @pauloCalvarez
+	From: Bogota, Colombia
+	
+/* THANKS*/
+
+/* SITE*/
+	Last update: 14/03/2013
+	Languaje: Español
+	Standars: HTML5, CSS3, Normalize.css, jQuery, Modernizr
